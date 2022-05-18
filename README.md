@@ -3,6 +3,9 @@
 ### 1. Disease Prediction System 
 The Disease Prediction System is 7th semester college project which helps to predict Disease with the given symptoms and also recommend the Medicine.
 This project uses the Encoding method to encode the user inputs, Decsion Tree Classiffication Algorithm for building the model etc.
+It also consist of Create Account, Login, Sending Mails etc. features. 
+#### ->   Inside the project folder Result1.png and Result2.png is the output Screenshot
+
 
 ### 2. Movie Recommendation System
 This project uses the IMDB Movie dataset and recommend any 4 movies.
