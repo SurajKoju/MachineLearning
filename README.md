@@ -24,3 +24,4 @@ This project is an Competition of kaggle to find survived passenger from titanic
 3. KDNuggets
 4. Kaggle
 
+<img src="https://miro.medium.com/max/1024/1*afHgkASVnLhAQwukZoVu7g.png" height = 500 width = 900>
